@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(240, 166, 130);
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.spacer {
+    width: 10px; /* İstenilen boşluğun genişliği buradan ayarlanabilir */
+    display: inline-block;
+}
+
+ul{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: italic;
+   color: rgb(128, 22, 110); 
+}
